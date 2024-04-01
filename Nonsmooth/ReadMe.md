@@ -1,0 +1,1 @@
+To create the result, first run pipline.sh to generate all data, then run PlotResults.ipynb to plot the corresponding figures.
